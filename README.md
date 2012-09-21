@@ -1,5 +1,5 @@
 # Zohoho
-
+[![Build Status](https://secure.travis-ci.org/nolastan/zohoho.png)](http://travis-ci.org/nolastan/zohoho)
 ## Usage
 
 For new users, retrieve a token:
